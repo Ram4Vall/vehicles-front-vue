@@ -10,7 +10,7 @@
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
         target="_blank"
       >
-        <span class="mr-2">Latest Release</span>
+        <a href="https://github.com/Ram4Vall/vehicles-front-vue"><v-icon>fab fa-github</v-icon></a>
       </v-btn>
     </v-toolbar>
 
